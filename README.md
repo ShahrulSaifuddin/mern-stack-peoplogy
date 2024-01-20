@@ -20,3 +20,5 @@ npm install dotenv
 - add url http://localhost:3000 && http://localhost:3000/auth/google/redirect
 - refer json (client id & client secret)
 - go to passport-setup.js
+
+test ignore .env file
